@@ -1,6 +1,6 @@
 # Prezit: Interactive Shooter Game
 
-![Game Screenshot](https://github.com/Rohan-Redd/Vision/blob/main/Static/img/fav.png)
+![Game Screenshot](https://github.com/Rohan-Redd/Prezit/blob/main/Images/pic.png)
 
 ## Introduction
 
