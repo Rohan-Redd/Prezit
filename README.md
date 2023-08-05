@@ -1,4 +1,4 @@
-# Prezit: Interactive Scratch Shooter Game
+# Prezit: Interactive Shooter Game
 
 ![Game Screenshot](https://github.com/Rohan-Redd/Vision/blob/main/Static/img/fav.png)
 
